@@ -1,0 +1,31 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 6rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 250px;
+  width: 200px;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.textStyle {
+  padding: 1rem;
+}
+
+
+.footer-custom {
+  bottom: 0;
+  position: fixed;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  text-align: center;
+}

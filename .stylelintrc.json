@@ -1,0 +1,4 @@
+{
+    "extends": ["stylelint-config-bod", "stylelint-prettier/recommended"]
+  }
+  
