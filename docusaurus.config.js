@@ -13,7 +13,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   noIndex: true,
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'kaanf', // Usually your GitHub org/user name.
-  projectName: 'personal-notes', // Usually your repo name.
+  projectName: 'notes', // Usually your repo name.
 
   presets: [
     [
