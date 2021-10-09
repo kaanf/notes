@@ -6,6 +6,7 @@ sidebar_position: 1
 # portfolio
 
 ### Crewl
+---
 
 ![Crewl](./assets/crewl.png)
 
@@ -14,6 +15,7 @@ sidebar_position: 1
 > Personal conceptual side project.
 
 ### TrustMe
+---
 
 ![TrustMe](./assets/trustme.png)
 
@@ -23,6 +25,7 @@ sidebar_position: 1
 **[Github](https://github.com/kaanf/trust-me)**
 
 ### Friendpie
+---
 
 ![Friendpie](./assets/friendpie.png)
 
