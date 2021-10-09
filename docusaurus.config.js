@@ -68,9 +68,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             activeBasePath: '/README',
           },
           {
-            href: 'https://kaanf.github.io/notes/Portfolio.pdf',
+            to: '/portfolio',
             label: 'portfolio',
             position: 'right',
+            activeBasePath: 'projects',
           },
           {
             type: 'dropdown',
